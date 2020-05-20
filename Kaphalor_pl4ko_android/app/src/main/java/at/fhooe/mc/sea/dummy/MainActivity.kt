@@ -14,6 +14,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun dummy(){
-
+        return
     }
 }
