@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("debuggerLog", "got into main Activity")
     }
 
-    fun dummy(){
-
-    }
 }
+    fun dummy(): Int{
+        return 0
+    }
