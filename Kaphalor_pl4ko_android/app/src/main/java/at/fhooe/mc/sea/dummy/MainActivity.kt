@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("debuggerLog", "got into main Activity")
+        changeBackground()
     }
 
     private fun changeBackground() {
