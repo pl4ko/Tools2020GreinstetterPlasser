@@ -18,5 +18,6 @@ class MainActivity : AppCompatActivity() {
     }
 }
 fun dummy(): Int{
+    var palmi:Boolean = false
     return 0
 }
