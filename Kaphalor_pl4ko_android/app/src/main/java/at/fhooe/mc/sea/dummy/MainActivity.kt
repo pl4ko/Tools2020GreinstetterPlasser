@@ -13,6 +13,9 @@ class MainActivity : AppCompatActivity() {
         Log.d("debuggerLog", "got into main Activity")
     }
 
+    private fun changeBackground() {
+        
+    }
 }
 fun dummy(): Int{
     return 0
