@@ -20,5 +20,6 @@ class MainActivity : AppCompatActivity() {
 }
 fun dummy(): Int{
     var palmi:Boolean = false
+	Log.d("debuggerLog","dias stinkt wirklich");
     return 0
 }
